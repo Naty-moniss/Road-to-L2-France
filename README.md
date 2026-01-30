@@ -10,7 +10,7 @@
 
 | Categoria | Progresso | Nível Atual |
 | :--- | :---: | :--- |
-| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/45) | Intermediário (A2 -> B1) |
+| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/15) | Básico (12 -> A2) |
 | **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/30) | Base ciência de dados - Pré-Cálculo |
 | **🐍 Python para Dados** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
 | **🟠 Física & Química** | ![Progress](https://geps.dev/progress/20) | Cinemática & Atomística |
