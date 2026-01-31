@@ -1,6 +1,5 @@
 # 📔 Log d'Études - Février / Fevereiro 2026
 
-> "Le futur appartient à ceux qui croient à la beauté de leurs rêves." — Eleanor Roosevelt
 
 ## ✍️ Présentation / Apresentação
 **🇫🇷 FR:** Ce mois-ci, je commence officiellement mon programme de 35 semaines. Mon attention est portée sur la construction d'une base solide en mathématiques et sur l'immersion quotidienne dans la langue française. Chaque jour de repos (Jour A) est une opportunité de me rapprocher de la France.
@@ -10,11 +9,11 @@
 ---
 
 ## 📅 Semaine 05 (01/02 - 07/02)
-**Foco:** Matemática Básica & Primeiros passos com Fernanda Pessoa.
+**Foco:** Matemática Básica & Iniciar primeiras aulas base do francês.
 
 - [ ] **01/02 (Dia A):** Operações básicas e Potenciação + Aula 01 de Francês.
-- [ ] **02/02 (Dia B):** Trabalho 12x36 + Podcast *InnerFrench* (15 min).
-- [ ] **03/02 (Dia A):** Radiciação + Natureza (MUV) + Redação (Estrutura FP).
+- [ ] **02/02 (Dia B):** Trabalho 12x36 + episódio de série *Lupin* (15 min).
+- [ ] **03/02 (Dia A):** Redação (Estrutura FP) + Aula 2 e 3 de francês
 - [ ] **04/02 (Dia B):** Trabalho 12x36 + Revisão de vocabulário no Anki.
 - [ ] **05/02 (Dia A):** Expressões Numéricas + Literatura (Barroco).
 
