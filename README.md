@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002395&height=200&section=header&text=Road%20to%20Data%20la%20Science%20🇫🇷&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=200&section=header&text=Road%20to%20Audio%20la%20Engeenering%20🇫🇷&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002395&center=true&vCenter=true&width=435&lines=Objectif:+Licence+3+Data+Science;Study+Routine:+12x36+Shift;French+Level:+Target+B2/C1;STEM+for+UFABC+and+France)](https://git.io/typing-svg)
 </div>
