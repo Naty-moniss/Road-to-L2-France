@@ -8,14 +8,16 @@
 
 ---
 
-## 📅 Semaine 05 (08/02 - 14/02)
+## 📅 Semaine 06 (16/02 - 22/02)
 **Foco:** Matemática Básica & Iniciar finalizar primeiro bloco de aulas básicas do Francês.
 
-- [ ] **08/02 (Dia A):** Aula de francês e organização do conteúdo da semana
-- [ ] **09/02 (Dia B):** Iniciar curso Teoria musical e Trabalhar no github
-- [ ] **10/02 (Dia A):** Redação (Estrutura FP) + Aula 4 e 5 de francês
-- [ ] **11/02 (Dia B):** Trabalho 12x36 + Ler e anotar vocabulário em Francês
-- [ ] **12/02 (Dia A):** Aula de teoria Teoria Musical + Literatura (Barroco).
+- [ ] **16/02 (Dia A):** Revisão de lógica de programação - Aula de francês.
+- [ ] **17/02 (Dia B):** Trabalhar na trilha da faculdade - Treino de francês (fala)
+- [ ] **18/02 (Dia A):** Trabalho 12x36 + Ler e anotar vocabulário em Francês
+- [ ] **19/02 (Dia B):** Trilha da faculdade - Revisão de lógica de programação.
+- [ ] **20/02 (Dia A):** Trabalho 12x36 - Treino vocabulário e escuta em francês
+- [ ] **21/02 (DIA B):** Trilha da Faculdade - Aula de francês - Treino de francês (fala)
+- [ ] **22/02 (DIA A):** Trabalho 12x36 - Ler e anotar vocabulário em Francês.
 
 ---
 
