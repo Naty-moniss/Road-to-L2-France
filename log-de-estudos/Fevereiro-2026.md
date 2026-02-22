@@ -11,17 +11,22 @@
 ## 📅 Semaine 06 (16/02 - 22/02)
 **Foco:** Matemática Básica & Iniciar finalizar primeiro bloco de aulas básicas do Francês.
 
-- [ ] **16/02 (Dia A):** Revisão de lógica de programação - Aula de francês.
-- [ ] **17/02 (Dia B):** Trabalhar na trilha da faculdade - Treino de francês (fala)
-- [ ] **18/02 (Dia A):** Trabalho 12x36 + Ler e anotar vocabulário em Francês
-- [ ] **19/02 (Dia B):** Trilha da faculdade - Revisão de lógica de programação.
-- [ ] **20/02 (Dia A):** Trabalho 12x36 - Treino vocabulário e escuta em francês
-- [ ] **21/02 (DIA B):** Trilha da Faculdade - Aula de francês - Treino de francês (fala)
-- [ ] **22/02 (DIA A):** Trabalho 12x36 - Ler e anotar vocabulário em Francês.
+- [ ] **23/02 (Dia A):** Aula de francês - Treinar fala com apresentações sobre mim
+- [ ] **24/02 (Dia B):** Trabalho 12x36 + Treino de ouvido com rádio francesa
+- [ ] **25/02 (Dia A):** Aula de francês - Estudar vocabulário exercícios de gramática
+- [ ] **26/02 (Dia B):** Trabalho 12x36 + leitura em francês
+- [ ] **27/02 (Dia A):** Aula de francês - Treinar vocabulário e fala
+- [ ] **28/02 (DIA B):** Trabalho 12x36 - Estudar vocabulário com música
+- [ ] **01/03 (DIA A):** Organizar próximo mês 
 
 ---
 
 ## 📈 Reflexão Mensal / Réflexion du Mois
-*Espaço para preencher no final do mês: O que funcionou? O que preciso ajustar para Março?*
 
+*Vou colocar agora antes do fim do mês porque sinto que éo momento certo, esse mês foi um mês de tentativas, tentar manter uma rotina constante de estudos, focar minha atenção no que é importante e trabalhar minha própria evolução. Descobri qyue fazer tudo de uma vez é péssimo e que ver séries que eu nunca vi em um idioma novo complica minha vida, resolvi que quero ir devagar. Recalculei minha rota e estou inde mais devagar, espero que em Março tudo flua melhor.*
+
+
+French Version:
+
+*Je publie ce message avant la fin du mois car je pense que c'est le bon moment. Ce mois-ci a été un mois d'efforts pour maintenir une routine d'étude régulière, me concentrer sur l'essentiel et travailler sur ma progression. J'ai réalisé que tout faire en même temps est une mauvaise idée et que regarder des séries que je n'ai jamais vues dans une langue étrangère complique ma vie. J'ai donc décidé d'y aller plus doucement. J'ai revu mon organisation et j'avance encore plus lentement. J'espère que tout se déroulera mieux en mars*
 ---
