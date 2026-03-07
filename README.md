@@ -12,8 +12,7 @@
 | :--- | :---: | :--- |
 | **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/15) | Básico (A1 -> A2) |
 | **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/30) | Logaritmo - Álgebra Linear |
-| **🐍 Python e C++** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
-| **🟠 Física & Música** | ![Progress](https://geps.dev/progress/20) | Ondas Sonoras & Teoria Musical |
+| **🐍  C++** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
 
 ---
 
@@ -29,13 +28,13 @@
 
 ## 📖 Diário de Bordo / Journal de Bord
 
-> **Última Atualização:** 08 de Fevereiro de 2026
+> **Última Atualização:** 07 de Março de 2026
 
-### 📅 Fevereiro 2026
-- [x] Inicio dos estudos de Teoria Musical (básico) e Francês 
-- [x] Submeter últimos projetos completos para o git
-- [ ] Revisão completa de Matemática básica
-- [ ] Treinar uma vez por dia a fala em francês
+### 📅 Março de 2026
+- [ ] Focar mais na fala em francês
+- [ ] Iniciar estudos em algebra linear 
+- [ ] Finalizar aulas básicas de francês
+- [ ] Começar a escrever em inglês
 
 ---
 
